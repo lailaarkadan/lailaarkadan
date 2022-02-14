@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-
-https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr
-
+https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif
 <!--
 **lailaarkadan/lailaarkadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
