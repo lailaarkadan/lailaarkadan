@@ -1,8 +1,17 @@
-### Hi there 👋
+### This is Laila Arkadan 👋
 
-https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif
-<!--
-**lailaarkadan/lailaarkadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
+
+
+
+
+
+
+
+
 
 Here are some ideas to get you started:
 
@@ -15,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Languages and Tools:
+css3 html5 javascript jest nodejs postgresql react redux
