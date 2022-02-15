@@ -6,7 +6,7 @@
 
 
 - 👩🏻‍💻 I'm a Web Developer from Arvada,CO
-- 👩🏻‍💻 I am currently a student at BloomTech 
+- 👩🏻‍💻 I'm a student at BloomTech (FKA Lambda)
 - 👩🏻‍🎓 I have a Bachelors in Hospitality Managment 
 - 📫 How to reach me: laila.arkadan@gmail.com
 - 💬 Ask me about baking tips!
