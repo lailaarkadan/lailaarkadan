@@ -4,7 +4,6 @@
 
 
 
-
 - 👩🏻‍💻 I'm a Web Developer from Arvada,CO
 - 👩🏻‍💻 I'm  currently a student at BloomTech (FKA Lambda)
 - 👩🏻‍🎓 I have a Bachelors in Hospitality Managment 
