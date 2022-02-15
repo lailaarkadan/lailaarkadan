@@ -9,7 +9,7 @@
 - 💬 Ask me about baking tips!
 - ⚡ Fun Fact: Scientists can ectract polar bears DNA from just their footprints!
 
--->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/laila-arkadan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/laila-arkadan/" height="30" width="40" /></a>
