@@ -1,15 +1,14 @@
 ## This is Laila Arkadan 👋
 
-## I am a Web Developer from Arvada,CO!
 
-
-
-
-- I am currently studying at BloomTech 
+- 👩🏻‍💻 I'm a Web Developer 
+- ⛰ I currently live in Arvada,CO
+- 👩🏻‍💻 I'm currently a student at BloomTech 
 - 👩🏻‍🎓 I have a Bachelors in Hospitality Managment 
-- 💬 Ask me about baking tips!
 - 📫 How to reach me: laila.arkadan@gmail.com
-- ⚡ Fun Fact: Male Polar Bears can wiegh as much as 10 men!
+- 💬 Ask me about baking tips!
+- ⚡ Fun Fact: Scientists can ectract polar bears DNA from just their footprints!
+
 -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
