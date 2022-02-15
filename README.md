@@ -1,7 +1,7 @@
 ## This is Laila Arkadan 👋
 
 
-https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47jvt18cg1izaw36e5obzux767f6s8ggpv73t024oq&rid=giphy.gif&ct=g
+
 - 👩🏻‍💻 I'm a Web Developer from Arvada,CO
 - 👩🏻‍💻 I am currently a student at BloomTech 
 - 👩🏻‍🎓 I have a Bachelors in Hospitality Managment 
