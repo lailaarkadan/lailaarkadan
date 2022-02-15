@@ -2,6 +2,9 @@
 
 
 
+
+
+
 - 👩🏻‍💻 I'm a Web Developer from Arvada,CO
 - 👩🏻‍💻 I am currently a student at BloomTech 
 - 👩🏻‍🎓 I have a Bachelors in Hospitality Managment 
