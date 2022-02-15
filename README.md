@@ -1,9 +1,9 @@
 ## This is Laila Arkadan 👋
 
+![image](https://user-images.githubusercontent.com/91079490/153978695-1306ff99-d7e6-489e-9fdc-dfa55f89dda5.png)
 
-- 👩🏻‍💻 I'm a Web Developer 
-- ⛰ I currently live in Arvada,CO
-- 👩🏻‍💻 I'm currently a student at BloomTech 
+- 👩🏻‍💻 I'm a Web Developer from Arvada,CO
+- 👩🏻‍💻 I am currently a student at BloomTech 
 - 👩🏻‍🎓 I have a Bachelors in Hospitality Managment 
 - 📫 How to reach me: laila.arkadan@gmail.com
 - 💬 Ask me about baking tips!
