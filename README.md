@@ -1,6 +1,6 @@
 ## This is Laila Arkadan 👋
 
-https://www.pluralsight.com/
+<image https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif >
 - 👩🏻‍💻 I'm a Web Developer from Arvada,CO
 - 👩🏻‍💻 I am currently a student at BloomTech 
 - 👩🏻‍🎓 I have a Bachelors in Hospitality Managment 
