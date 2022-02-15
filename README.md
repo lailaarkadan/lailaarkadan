@@ -1,28 +1,15 @@
 ### This is Laila Arkadan 👋
 
+## I am a Web Developer from Arvada,CO!
 
 
 
 
-
-
-
-
-
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- I am currently studying at BloomTech 
+- 👩🏻‍🎓 I have a Bachelors in Hospitality Managment 
+- 💬 Ask me about baking tips!
+- 📫 How to reach me: laila.arkadan@gmail.com
+- ⚡ Fun Fact: Male Polar Bears can wiegh as much as 10 men!
 -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
