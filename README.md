@@ -1,5 +1,4 @@
-## 🌻 This is Laila Arkadan 🌻
-
+## 🌻 This is Laila Arkadan 🌼
 
 - 👩🏻‍💻 I'm a Web Developer from Arvada,CO
 - 💻 Studied at BloomTech (FKA Lambda)
