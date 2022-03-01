@@ -1,4 +1,4 @@
-  ## 🌻This is Laila Arkada🌻
+ ## 🌻This is Laila Arkada🌻
  - 👩🏻‍💻 I'm a Web Developer from Arvada,CO
 - 💻 Studied at BloomTech(FKA Lambda)
 - 👩🏻‍🎓 I have a Bachelors in Hospitality Managment 
