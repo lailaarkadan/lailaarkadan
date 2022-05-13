@@ -3,7 +3,7 @@
 - 💻 Studied at BloomTech(FKA Lambda)
 - 👩🏻‍🎓 I have a Bachelors in Hospitality Managment 
 - 📫 How to reach me: laila.arkadan@gmail.com
-- 💬 Ask me about baking tips!
+- 💬 Ask me about baking tips
 - ⚡ Fun Fact: Scientists can extract polar bears DNA from just their footprints!
 
 
