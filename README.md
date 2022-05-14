@@ -4,7 +4,7 @@
 - 👩🏻‍🎓 I have a Bachelors in Hospitality Managment 
 - 📫 How to reach me: laila.arkadan@gmail.com
 - 💬 Ask me about baking tips!
-- ⚡ Fun Fact: Scientists can extract polar bears DNA from just their footprints
+- ⚡ Fun Fact: Scientists can extract polar bears DNA from just their footprints!
 
 
 <h3 align="left">Connect with me:</h3>
