@@ -1,5 +1,5 @@
  ## 🌻This is Laila Arkadan🌻
- - 👩🏻‍💻 I'm a Web Developer from Arvada,C
+ - 👩🏻‍💻 I'm a Web Developer from Arvada,CO
 - 💻 Studied at BloomTech(FKA Lambda)
 - 👩🏻‍🎓 I have a Bachelors in Hospitality Managment 
 - 📫 How to reach me: laila.arkadan@gmail.com
